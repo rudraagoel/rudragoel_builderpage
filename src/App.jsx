@@ -88,7 +88,7 @@ function App() {
               <div className="relative">
                 <div className="absolute inset-0 rounded-full border border-amber-400/40 scale-105" />
                 <img
-                  src="../RG_Logo_GIF_01.gif"
+                  src="/RG_Logo_GIF_01.gif"
                   alt="Rudra Goel"
                   className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-white/10"
                 />
